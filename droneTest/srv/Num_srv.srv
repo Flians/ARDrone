@@ -1,0 +1,7 @@
+# Request: reference pose
+
+---
+# Responce: ok | ko
+float64 distance
+float64 theta
+float64 flag
